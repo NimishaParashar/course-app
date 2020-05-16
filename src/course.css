@@ -1,0 +1,79 @@
+.coursePic {
+  width: 25px;
+  height: 25px;
+  margin: 0 auto;
+  padding: 3px;
+}
+
+.expertPic {
+  width: 150px;
+  height: 300px;
+}
+
+.image {
+  width: 60%;
+  height: 100%;
+  align-items: center;
+}
+.one {
+  border-style: solid;
+  border-width: 50px;
+}
+.title {
+  text-size-adjust: 10px;
+  color: crimson;
+}
+.imageCard {
+  width: 100px;
+  height: 100px;
+}
+
+.text {
+  text-align: center;
+}
+.card {
+  border-radius: 25px;
+  border: 2px solid #73ad21;
+  margin-left: 10px;
+  width: 150px;
+  height: 150px;
+  padding: 10px;
+}
+.site-card-wrapper {
+  background: #ececec;
+  padding: 30px;
+}
+[data-theme="dark"] .site-card-wrapper {
+  background: #303030;
+}
+.cardDesign {
+  margin-left: 40px;
+  color: antiquewhite;
+  width: 220px;
+  border: 2px solid burlywood;
+  height: 200px;
+}
+
+.textColor {
+  color: crimson;
+}
+
+.textClr {
+  color: blue;
+}
+
+.expertImg {
+  width: 35px;
+  height: 40px;
+  margin: 0 auto;
+  padding: 3px;
+  align-self: baseline;
+}
+
+.card {
+  border-radius: 25px;
+  border: 2px solid #73ad21;
+  margin-left: 40px;
+  width: 400px;
+  height: 130px;
+}
